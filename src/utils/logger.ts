@@ -1,4 +1,3 @@
-/* eslint-env node */
 import { consoleTransport, logger } from "react-native-logs";
 
 // ###################
